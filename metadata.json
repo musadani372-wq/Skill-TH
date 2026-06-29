@@ -1,0 +1,6 @@
+{
+  "name": "SkillTH",
+  "description": "A Pakistani-friendly freelancing marketplace website like Fiverr, featuring Buyer & Seller profiles, Gig system with Packages, Order tracking, Support Tickets, and Admin Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
